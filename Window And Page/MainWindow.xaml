@@ -1,0 +1,12 @@
+﻿<Window x:Class="Window_And_Page.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Window_And_Page"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Frame x:Name="frMain" VerticalAlignment="Stretch" NavigationUIVisibility="Visible"/>        <Button Content="To page 1" Name="btnToPage01" Click="btnToPage01_Click"                  HorizontalAlignment="Left" Margin="259,376,0,30" Width="79"/>        <Button Content="To page 2" Name="btnToPage02" Click="btnToPage02_Click"                HorizontalAlignment="Left" Margin="400,376,0,30"                 Height="28" Width="79" RenderTransformOrigin="0.127,-1.779"/>
+    </Grid>
+</Window>
