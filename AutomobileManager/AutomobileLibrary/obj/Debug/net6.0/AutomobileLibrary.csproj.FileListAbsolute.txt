@@ -1,0 +1,14 @@
+C:\Users\thanh\Documents\FULearning\Spring2023\PRN221\SelfStudy\PRN221\AutomobileManager\AutomobileLibrary\bin\Debug\net6.0\AutomobileLibrary.deps.json
+C:\Users\thanh\Documents\FULearning\Spring2023\PRN221\SelfStudy\PRN221\AutomobileManager\AutomobileLibrary\bin\Debug\net6.0\AutomobileLibrary.runtimeconfig.json
+C:\Users\thanh\Documents\FULearning\Spring2023\PRN221\SelfStudy\PRN221\AutomobileManager\AutomobileLibrary\bin\Debug\net6.0\AutomobileLibrary.dll
+C:\Users\thanh\Documents\FULearning\Spring2023\PRN221\SelfStudy\PRN221\AutomobileManager\AutomobileLibrary\bin\Debug\net6.0\AutomobileLibrary.pdb
+C:\Users\thanh\Documents\FULearning\Spring2023\PRN221\SelfStudy\PRN221\AutomobileManager\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.csproj.AssemblyReference.cache
+C:\Users\thanh\Documents\FULearning\Spring2023\PRN221\SelfStudy\PRN221\AutomobileManager\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thanh\Documents\FULearning\Spring2023\PRN221\SelfStudy\PRN221\AutomobileManager\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.AssemblyInfoInputs.cache
+C:\Users\thanh\Documents\FULearning\Spring2023\PRN221\SelfStudy\PRN221\AutomobileManager\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.AssemblyInfo.cs
+C:\Users\thanh\Documents\FULearning\Spring2023\PRN221\SelfStudy\PRN221\AutomobileManager\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.csproj.CoreCompileInputs.cache
+C:\Users\thanh\Documents\FULearning\Spring2023\PRN221\SelfStudy\PRN221\AutomobileManager\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.dll
+C:\Users\thanh\Documents\FULearning\Spring2023\PRN221\SelfStudy\PRN221\AutomobileManager\AutomobileLibrary\obj\Debug\net6.0\refint\AutomobileLibrary.dll
+C:\Users\thanh\Documents\FULearning\Spring2023\PRN221\SelfStudy\PRN221\AutomobileManager\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.pdb
+C:\Users\thanh\Documents\FULearning\Spring2023\PRN221\SelfStudy\PRN221\AutomobileManager\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.genruntimeconfig.cache
+C:\Users\thanh\Documents\FULearning\Spring2023\PRN221\SelfStudy\PRN221\AutomobileManager\AutomobileLibrary\obj\Debug\net6.0\ref\AutomobileLibrary.dll

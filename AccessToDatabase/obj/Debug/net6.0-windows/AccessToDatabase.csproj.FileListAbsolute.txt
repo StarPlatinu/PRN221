@@ -1,0 +1,3 @@
+C:\Users\thanh\Documents\FULearning\Spring2023\PRN221\SelfStudy\PRN221\AccessToDatabase\obj\Debug\net6.0-windows\AccessToDatabase.csproj.AssemblyReference.cache
+C:\Users\thanh\Documents\FULearning\Spring2023\PRN221\SelfStudy\PRN221\AccessToDatabase\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\thanh\Documents\FULearning\Spring2023\PRN221\SelfStudy\PRN221\AccessToDatabase\obj\Debug\net6.0-windows\AccessToDatabase_MarkupCompile.cache

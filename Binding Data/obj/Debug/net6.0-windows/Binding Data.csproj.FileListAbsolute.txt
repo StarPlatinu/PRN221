@@ -1,0 +1,21 @@
+C:\Users\thanh\Documents\FULearning\Spring2023\PRN221\SelfStudy\PRN221\Binding Data\bin\Debug\net6.0-windows\Binding Data.exe
+C:\Users\thanh\Documents\FULearning\Spring2023\PRN221\SelfStudy\PRN221\Binding Data\bin\Debug\net6.0-windows\Binding Data.deps.json
+C:\Users\thanh\Documents\FULearning\Spring2023\PRN221\SelfStudy\PRN221\Binding Data\bin\Debug\net6.0-windows\Binding Data.runtimeconfig.json
+C:\Users\thanh\Documents\FULearning\Spring2023\PRN221\SelfStudy\PRN221\Binding Data\bin\Debug\net6.0-windows\Binding Data.dll
+C:\Users\thanh\Documents\FULearning\Spring2023\PRN221\SelfStudy\PRN221\Binding Data\bin\Debug\net6.0-windows\Binding Data.pdb
+C:\Users\thanh\Documents\FULearning\Spring2023\PRN221\SelfStudy\PRN221\Binding Data\obj\Debug\net6.0-windows\Binding Data.csproj.AssemblyReference.cache
+C:\Users\thanh\Documents\FULearning\Spring2023\PRN221\SelfStudy\PRN221\Binding Data\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\thanh\Documents\FULearning\Spring2023\PRN221\SelfStudy\PRN221\Binding Data\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\thanh\Documents\FULearning\Spring2023\PRN221\SelfStudy\PRN221\Binding Data\obj\Debug\net6.0-windows\Binding Data_MarkupCompile.cache
+C:\Users\thanh\Documents\FULearning\Spring2023\PRN221\SelfStudy\PRN221\Binding Data\obj\Debug\net6.0-windows\Binding Data_MarkupCompile.lref
+C:\Users\thanh\Documents\FULearning\Spring2023\PRN221\SelfStudy\PRN221\Binding Data\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\thanh\Documents\FULearning\Spring2023\PRN221\SelfStudy\PRN221\Binding Data\obj\Debug\net6.0-windows\Binding Data.g.resources
+C:\Users\thanh\Documents\FULearning\Spring2023\PRN221\SelfStudy\PRN221\Binding Data\obj\Debug\net6.0-windows\Binding Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thanh\Documents\FULearning\Spring2023\PRN221\SelfStudy\PRN221\Binding Data\obj\Debug\net6.0-windows\Binding Data.AssemblyInfoInputs.cache
+C:\Users\thanh\Documents\FULearning\Spring2023\PRN221\SelfStudy\PRN221\Binding Data\obj\Debug\net6.0-windows\Binding Data.AssemblyInfo.cs
+C:\Users\thanh\Documents\FULearning\Spring2023\PRN221\SelfStudy\PRN221\Binding Data\obj\Debug\net6.0-windows\Binding Data.csproj.CoreCompileInputs.cache
+C:\Users\thanh\Documents\FULearning\Spring2023\PRN221\SelfStudy\PRN221\Binding Data\obj\Debug\net6.0-windows\Binding Data.dll
+C:\Users\thanh\Documents\FULearning\Spring2023\PRN221\SelfStudy\PRN221\Binding Data\obj\Debug\net6.0-windows\refint\Binding Data.dll
+C:\Users\thanh\Documents\FULearning\Spring2023\PRN221\SelfStudy\PRN221\Binding Data\obj\Debug\net6.0-windows\Binding Data.pdb
+C:\Users\thanh\Documents\FULearning\Spring2023\PRN221\SelfStudy\PRN221\Binding Data\obj\Debug\net6.0-windows\Binding Data.genruntimeconfig.cache
+C:\Users\thanh\Documents\FULearning\Spring2023\PRN221\SelfStudy\PRN221\Binding Data\obj\Debug\net6.0-windows\ref\Binding Data.dll
