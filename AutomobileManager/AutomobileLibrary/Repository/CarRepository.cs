@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace AutomobileLibrary.Repository
 {
-    internal class CarRepository : ICarRepository
+    public class CarRepository : ICarRepository
     {
         public void DeleteCar(Car car) => CarDao.Instance.Remove(car);
         public Car GetCarById(int carId) => CarDao.Instance.getCarById(carId);

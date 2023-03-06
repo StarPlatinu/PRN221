@@ -13,7 +13,7 @@ namespace AutomobileLibrary.Repository
         Car GetCarById(int carId);
         void InsertCar(Car car);
         void UpdateCar(Car car);
-        void DeleteCar(int carId);
+        void DeleteCar(Car car);
 
     }
 }

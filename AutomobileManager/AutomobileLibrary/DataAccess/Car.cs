@@ -14,4 +14,5 @@ public partial class Car
     public decimal? Price { get; set; }
 
     public int? ReleasedYear { get; set; }
+
 }
