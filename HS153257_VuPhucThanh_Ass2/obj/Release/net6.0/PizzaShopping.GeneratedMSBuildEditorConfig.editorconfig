@@ -1,0 +1,189 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = PizzaShopping
+build_property.RootNamespace = PizzaShopping
+build_property.ProjectDir = C:\Users\thanh\Documents\FULearning\Spring2023\PRN221\SelfStudy\PRN221\HS153257_VuPhucThanh_Ass2\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\thanh\Documents\FULearning\Spring2023\PRN221\SelfStudy\PRN221\HS153257_VuPhucThanh_Ass2
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/thanh/Documents/FULearning/Spring2023/PRN221/SelfStudy/PRN221/HS153257_VuPhucThanh_Ass2/Pages/Accounts/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thanh/Documents/FULearning/Spring2023/PRN221/SelfStudy/PRN221/HS153257_VuPhucThanh_Ass2/Pages/Accounts/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thanh/Documents/FULearning/Spring2023/PRN221/SelfStudy/PRN221/HS153257_VuPhucThanh_Ass2/Pages/Accounts/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thanh/Documents/FULearning/Spring2023/PRN221/SelfStudy/PRN221/HS153257_VuPhucThanh_Ass2/Pages/Accounts/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thanh/Documents/FULearning/Spring2023/PRN221/SelfStudy/PRN221/HS153257_VuPhucThanh_Ass2/Pages/Accounts/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thanh/Documents/FULearning/Spring2023/PRN221/SelfStudy/PRN221/HS153257_VuPhucThanh_Ass2/Pages/Accounts/_CreatePartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudHNcX0NyZWF0ZVBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thanh/Documents/FULearning/Spring2023/PRN221/SelfStudy/PRN221/HS153257_VuPhucThanh_Ass2/Pages/Accounts/_EditPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudHNcX0VkaXRQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thanh/Documents/FULearning/Spring2023/PRN221/SelfStudy/PRN221/HS153257_VuPhucThanh_Ass2/Pages/Customers/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3VzdG9tZXJzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thanh/Documents/FULearning/Spring2023/PRN221/SelfStudy/PRN221/HS153257_VuPhucThanh_Ass2/Pages/Customers/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3VzdG9tZXJzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thanh/Documents/FULearning/Spring2023/PRN221/SelfStudy/PRN221/HS153257_VuPhucThanh_Ass2/Pages/Customers/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3VzdG9tZXJzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thanh/Documents/FULearning/Spring2023/PRN221/SelfStudy/PRN221/HS153257_VuPhucThanh_Ass2/Pages/Customers/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3VzdG9tZXJzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thanh/Documents/FULearning/Spring2023/PRN221/SelfStudy/PRN221/HS153257_VuPhucThanh_Ass2/Pages/Customers/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3VzdG9tZXJzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thanh/Documents/FULearning/Spring2023/PRN221/SelfStudy/PRN221/HS153257_VuPhucThanh_Ass2/Pages/Customers/_CreatePartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3VzdG9tZXJzXF9DcmVhdGVQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thanh/Documents/FULearning/Spring2023/PRN221/SelfStudy/PRN221/HS153257_VuPhucThanh_Ass2/Pages/Customers/_EditPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3VzdG9tZXJzXF9FZGl0UGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thanh/Documents/FULearning/Spring2023/PRN221/SelfStudy/PRN221/HS153257_VuPhucThanh_Ass2/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thanh/Documents/FULearning/Spring2023/PRN221/SelfStudy/PRN221/HS153257_VuPhucThanh_Ass2/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thanh/Documents/FULearning/Spring2023/PRN221/SelfStudy/PRN221/HS153257_VuPhucThanh_Ass2/Pages/Orders/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3JkZXJzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thanh/Documents/FULearning/Spring2023/PRN221/SelfStudy/PRN221/HS153257_VuPhucThanh_Ass2/Pages/Orders/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3JkZXJzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thanh/Documents/FULearning/Spring2023/PRN221/SelfStudy/PRN221/HS153257_VuPhucThanh_Ass2/Pages/Orders/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3JkZXJzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thanh/Documents/FULearning/Spring2023/PRN221/SelfStudy/PRN221/HS153257_VuPhucThanh_Ass2/Pages/Orders/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3JkZXJzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thanh/Documents/FULearning/Spring2023/PRN221/SelfStudy/PRN221/HS153257_VuPhucThanh_Ass2/Pages/Orders/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3JkZXJzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thanh/Documents/FULearning/Spring2023/PRN221/SelfStudy/PRN221/HS153257_VuPhucThanh_Ass2/Pages/Orders/_CreatePartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3JkZXJzXF9DcmVhdGVQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thanh/Documents/FULearning/Spring2023/PRN221/SelfStudy/PRN221/HS153257_VuPhucThanh_Ass2/Pages/Orders/_EditPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3JkZXJzXF9FZGl0UGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thanh/Documents/FULearning/Spring2023/PRN221/SelfStudy/PRN221/HS153257_VuPhucThanh_Ass2/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thanh/Documents/FULearning/Spring2023/PRN221/SelfStudy/PRN221/HS153257_VuPhucThanh_Ass2/Pages/Products/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thanh/Documents/FULearning/Spring2023/PRN221/SelfStudy/PRN221/HS153257_VuPhucThanh_Ass2/Pages/Products/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thanh/Documents/FULearning/Spring2023/PRN221/SelfStudy/PRN221/HS153257_VuPhucThanh_Ass2/Pages/Products/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thanh/Documents/FULearning/Spring2023/PRN221/SelfStudy/PRN221/HS153257_VuPhucThanh_Ass2/Pages/Products/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thanh/Documents/FULearning/Spring2023/PRN221/SelfStudy/PRN221/HS153257_VuPhucThanh_Ass2/Pages/Products/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thanh/Documents/FULearning/Spring2023/PRN221/SelfStudy/PRN221/HS153257_VuPhucThanh_Ass2/Pages/Products/_CreatePartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdHNcX0NyZWF0ZVBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thanh/Documents/FULearning/Spring2023/PRN221/SelfStudy/PRN221/HS153257_VuPhucThanh_Ass2/Pages/Products/_EditPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdHNcX0VkaXRQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thanh/Documents/FULearning/Spring2023/PRN221/SelfStudy/PRN221/HS153257_VuPhucThanh_Ass2/Pages/Shared/_SampleLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9TYW1wbGVMYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thanh/Documents/FULearning/Spring2023/PRN221/SelfStudy/PRN221/HS153257_VuPhucThanh_Ass2/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thanh/Documents/FULearning/Spring2023/PRN221/SelfStudy/PRN221/HS153257_VuPhucThanh_Ass2/Pages/Suppliers/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3VwcGxpZXJzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thanh/Documents/FULearning/Spring2023/PRN221/SelfStudy/PRN221/HS153257_VuPhucThanh_Ass2/Pages/Suppliers/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3VwcGxpZXJzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thanh/Documents/FULearning/Spring2023/PRN221/SelfStudy/PRN221/HS153257_VuPhucThanh_Ass2/Pages/Suppliers/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3VwcGxpZXJzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thanh/Documents/FULearning/Spring2023/PRN221/SelfStudy/PRN221/HS153257_VuPhucThanh_Ass2/Pages/Suppliers/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3VwcGxpZXJzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thanh/Documents/FULearning/Spring2023/PRN221/SelfStudy/PRN221/HS153257_VuPhucThanh_Ass2/Pages/Suppliers/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3VwcGxpZXJzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thanh/Documents/FULearning/Spring2023/PRN221/SelfStudy/PRN221/HS153257_VuPhucThanh_Ass2/Pages/Suppliers/_CreatePartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3VwcGxpZXJzXF9DcmVhdGVQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thanh/Documents/FULearning/Spring2023/PRN221/SelfStudy/PRN221/HS153257_VuPhucThanh_Ass2/Pages/Suppliers/_EditPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3VwcGxpZXJzXF9FZGl0UGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thanh/Documents/FULearning/Spring2023/PRN221/SelfStudy/PRN221/HS153257_VuPhucThanh_Ass2/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thanh/Documents/FULearning/Spring2023/PRN221/SelfStudy/PRN221/HS153257_VuPhucThanh_Ass2/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/thanh/Documents/FULearning/Spring2023/PRN221/SelfStudy/PRN221/HS153257_VuPhucThanh_Ass2/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-f8f912t1r7

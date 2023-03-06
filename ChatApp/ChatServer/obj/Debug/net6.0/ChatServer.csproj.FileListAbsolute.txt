@@ -1,0 +1,5 @@
+C:\Users\thanh\Documents\FULearning\Spring2023\PRN221\SelfStudy\PRN221\ChatApp\ChatServer\obj\Debug\net6.0\ChatServer.csproj.AssemblyReference.cache
+C:\Users\thanh\Documents\FULearning\Spring2023\PRN221\SelfStudy\PRN221\ChatApp\ChatServer\obj\Debug\net6.0\ChatServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thanh\Documents\FULearning\Spring2023\PRN221\SelfStudy\PRN221\ChatApp\ChatServer\obj\Debug\net6.0\ChatServer.AssemblyInfoInputs.cache
+C:\Users\thanh\Documents\FULearning\Spring2023\PRN221\SelfStudy\PRN221\ChatApp\ChatServer\obj\Debug\net6.0\ChatServer.AssemblyInfo.cs
+C:\Users\thanh\Documents\FULearning\Spring2023\PRN221\SelfStudy\PRN221\ChatApp\ChatServer\obj\Debug\net6.0\ChatServer.csproj.CoreCompileInputs.cache
